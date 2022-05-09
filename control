@@ -1,0 +1,12 @@
+Package: xc.lzsxcl.o2
+Name: o2
+Version: 1.0.11
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Author: lzsxcl
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11), com.creaturecoding.libcspreferences (>= 1.5.7)
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/o2.jpg
+Description: o2分屏(支持分屏内使用摄像头、微信视频聊天),一步打通应用间的边界，全新美观便捷的分屏新方式
